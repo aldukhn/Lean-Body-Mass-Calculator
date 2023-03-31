@@ -76,4 +76,6 @@ function darkMode() {
 
     var table = document.getElementById("tables");
     table.classList.toggle("table-dark");
+
+
 }

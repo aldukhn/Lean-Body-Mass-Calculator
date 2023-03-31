@@ -77,5 +77,8 @@ function darkMode() {
     var table = document.getElementById("tables");
     table.classList.toggle("table-dark");
 
+    var table = document.getElementById("calcBtn");
+    table.classList.toggle("btn-dark");
+
 
 }
